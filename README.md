@@ -4,5 +4,5 @@
 
 Website Preview:
 
-![](https://user-images.githubusercontent.com/221550/110506678-51906280-80cd-11eb-803a-c41984bd9312.png)
+![]("https://github.com/user-attachments/assets/972254d1-c77e-406e-95b2-3c9396b541cd")
 
