@@ -1,4 +1,4 @@
-# Welcome to my website!
+# Welcome to horyzen1's website!
 
 ### This website is made using Github's Personal Website template.
 
